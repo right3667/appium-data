@@ -23,11 +23,11 @@
 
  ## 4. DB 접속
  - java 파일 생성 후 코드 실행 시 db 연동 성공 메시지 출력<br>
-    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br>
+    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br><br><br>
 
       
  ## 5. DB insert 실행
  - insert 코드 작성<br>
-    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br>
- - DB 확인 시 insert 됨을 확인
-    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br>
+    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br><br><br>
+ - DB 확인 시 insert 됨을 확인<br>
+    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br><br><br>
