@@ -1,6 +1,6 @@
 # Appium-data
  ## Appium
- <image src="doc/appium-logo-sauce-white.png" style="width: 800px;"><br>
+ <image src="doc/appium-logo-sauce-white.png" style="width: 300px;"><br>
  - 모바일 애플리케이션의 테스트 자동화를 가능하게 해주는 오픈소스 라이브러리
  - native, hybrid, mobile web 등 모든 타입의 모바일 애플리케이션의 테스트 자동화
  - WebDriver 프로토콜을 사용하여 iOS, Android 앱 구동
@@ -16,7 +16,7 @@
 
 ## Appium 동작
 ### - 제품 적용
-<image src="doc/launch_flow.jpg" style="width: 800px;"><br>
+<image src="doc/launch_flow.jpg" style="width: 400px;"><br>
 1. Test Case 의 '시험 절차'와 '시험 결과' 의 스크립트 작성<br>
  사용 언어: Java<br>
  주요 라이브러리: <br>
@@ -26,10 +26,10 @@
 3. 유지보수 진행
 
 ### - 업무 흐름
-<image src="doc/project_flow.png" style="width: 800px;"><br>
+<image src="doc/project_flow.png" style="width: 300px;"><br>
 
 ### - 자동화 시연
- <image src="doc/demonstrate.gif" style="width: 800px;"><br>
+ <image src="doc/demonstrate.gif" style="width: 200px;"><br>
 
 1. 시연 환경
  - device: Galaxy S10 5g(Android 10)
