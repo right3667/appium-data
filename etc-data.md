@@ -9,7 +9,8 @@
     <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br><br><br>
 
 ## 3. Build Path
-  - JDBC 를 사용할 프로젝트 [우클릭 > Build Path > Configure Build Path] 이동
+  - JDBC 를 사용할 프로젝트 [우클릭 > Build Path > Configure Build Path] 이동<br>
+    <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br><br><br>
   - 'Properties for <프로젝트 명>' 화면에서 'Libraries' 탭 클릭
   - 'Add External JARs...' 버튼 클릭<br>
     <image src="doc/appium-logo-sauce-white.png" style="width: 150px;"><br><br><br>
